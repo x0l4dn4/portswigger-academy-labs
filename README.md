@@ -9,7 +9,7 @@ Personal study repository for tracking progress and documenting completed labs w
 │   ├── sqli-lab01.jpg
 │   └── ...
 ├── template/
-│   ├── lab-notes-template.md
+│   ├── notes-template.md
 │   └── exploit-template.py
 ├── topics/
 │   ├── sql-injection/
